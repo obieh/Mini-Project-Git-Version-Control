@@ -72,6 +72,9 @@ Changes are now commited to your local reposotory
 ![files on git](./img/gitfiles.png)
 
 
+## Hope you followed through and this have been informative for you.
+
+
 
 
 
